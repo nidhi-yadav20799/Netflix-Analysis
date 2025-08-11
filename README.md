@@ -7,6 +7,12 @@ This project analyzes the Netflix Movies and TV Shows dataset to uncover insight
 - Trends in movie/TV show releases
 - Word cloud of descriptions
 - Top directors on Netflix
+- Data cleaning
+- Visualization (Top Directors, Ratings, Release Year Trends, etc.)
+- WordCloud for descriptions
+
+![Rating Distribution](images/rating_distribution.png)
+
 
 ---
 
