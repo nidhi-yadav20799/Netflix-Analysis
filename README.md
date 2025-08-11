@@ -1,6 +1,6 @@
 # 📊 Netflix Movies and TV Shows Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes the Netflix Movies and TV Shows dataset to uncover insights about:
 - Content distribution over the years
 - Popular genres and ratings
@@ -29,7 +29,7 @@ Dataset contains:
 
 ---
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 - **Python** (Data Analysis)
 - **Pandas** (Data Handling)
 - **Matplotlib** & **Seaborn** (Visualization)
@@ -38,7 +38,7 @@ Dataset contains:
 
 ---
 
-## 📊 Analysis & Visualizations
+##  Analysis & Visualizations
 1. **Content Added Over the Years**
    ![Added by Year](images/added_by_year.png)
 
@@ -56,7 +56,7 @@ Dataset contains:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/nidhi-yadav20799/Netflix-Analysis.git
